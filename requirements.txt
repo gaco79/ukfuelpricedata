@@ -1,0 +1,3 @@
+asyncio==3.4.3
+pandas==2.2.2
+uk_fuel_prices_api==0.0.4
